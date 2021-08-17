@@ -1,7 +1,7 @@
 # EMS #EMPLOYEE MANAGEMENT SYSTEM 
 This EMS  EMployee Management System Small php Project it is created by
 
-				Fronted By 
+				Simple Html By
 ----------------------------------------------
 Azhar Hussain  | ROll NO : 2k19/CSM/16 
 ----------------------------------------------
